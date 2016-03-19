@@ -1,0 +1,9 @@
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\bin\Debug\TWEET.exe.config
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\bin\Debug\TWEET.exe
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\bin\Debug\TWEET.pdb
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\obj\Debug\TWEET.csprojResolveAssemblyReference.cache
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\obj\Debug\TWEET.Form1.resources
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\obj\Debug\TWEET.Properties.Resources.resources
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\obj\Debug\TWEET.csproj.GenerateResource.Cache
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\obj\Debug\TWEET.exe
+D:\CLG\SEM 8\TA-Final\TWEET\TWEET\obj\Debug\TWEET.pdb
